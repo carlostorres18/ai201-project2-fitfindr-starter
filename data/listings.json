@@ -507,6 +507,19 @@
     "platform": "poshmark"
   },
   {
+    "id": "lst_041",
+    "title": "Black Combat Boots — Lace-Up",
+    "description": "Classic black lace-up combat boots with chunky sole and silver hardware. Sturdy construction, barely worn. Pairs with everything from flowy dresses to baggy jeans.",
+    "category": "shoes",
+    "style_tags": ["grunge", "combat", "boots", "streetwear", "edgy", "vintage"],
+    "size": "US 8",
+    "condition": "excellent",
+    "price": 45.0,
+    "colors": ["black"],
+    "brand": "Dr. Martens",
+    "platform": "depop"
+  },
+  {
     "id": "lst_040",
     "title": "Tie-Dye Long Sleeve — Pastel",
     "description": "Hand tie-dyed long sleeve in soft pastel hues — pink, lavender, and mint. Oversized unisex fit. 100% cotton.",
